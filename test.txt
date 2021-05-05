@@ -1,7 +1,11 @@
-add some text in this file
+add line 1
 
 add line 2
 
 add line 3
+<<<<<<< HEAD
 
+=======
+add line 4
+>>>>>>> develop
 add line 4
